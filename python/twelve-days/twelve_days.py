@@ -35,5 +35,3 @@ gift = {
     2: "two Turtle Doves, ",
     1: "and a Partridge in a Pear Tree."
 }
-
-print(recite(1, 3))
